@@ -1,0 +1,3 @@
+[submodule "BoltzManCpp"]
+	path = BoltzManCpp
+	url = https://github.com/SalahElHabachi/BoltzManCpp.git
